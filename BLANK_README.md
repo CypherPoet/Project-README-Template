@@ -86,18 +86,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## <a id="getting-started"></a> Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### <a id="prerequisites"></a> Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
 - [yarn](https://yarnpkg.com/getting-started/install)
 
-### Installation
+### <a id="installation"></a> Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
